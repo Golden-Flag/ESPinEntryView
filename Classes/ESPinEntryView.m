@@ -6,11 +6,11 @@
 //  Copyright (c) 2015 e-sites. All rights reserved.
 //
 
+@import Masonry;
+@import QuartzCore;
+@import AudioToolbox;
+@import FXBlurView;
 #import "ESPinEntryView.h"
-#import <Masonry.h>
-#import <QuartzCore/QuartzCore.h>
-#import <FXBlurView.h>
-#import <AudioToolbox/AudioServices.h>
 
 @interface _ESPinEntryViewCanvas : UIView
 {

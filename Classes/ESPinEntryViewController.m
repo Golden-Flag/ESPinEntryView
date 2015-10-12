@@ -6,9 +6,9 @@
 //  Copyright (c) 2015 e-sites. All rights reserved.
 //
 
+@import Masonry;
 #import "ESPinEntryViewController.h"
 #import "ESPinEntryView.h"
-#import <Masonry.h>
 
 @interface ESPinEntryViewController ()
 

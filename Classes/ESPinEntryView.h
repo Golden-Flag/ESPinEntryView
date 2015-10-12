@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 e-sites. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 
 static NSString *const ESPinEntryCodeDidUpdateNotification = @"ESPinEntryCodeDidUpdateNotification";
